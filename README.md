@@ -1,1 +1,2 @@
-to jest wersja pierwsza jescze nie działająca
+zyroskop3bezkali może działać
+dla samego mechanizmu działania regulacji mocy patrzcie regulacja mocy
